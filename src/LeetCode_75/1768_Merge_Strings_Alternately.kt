@@ -29,7 +29,7 @@ class Solution_1768 {
 }
 
 fun main(){
-//    val x = Solution()
-//    print(x.mergeAlternately("abc","pqr"))
+    val x = Solution_1768()
+    print(x.mergeAlternately("abc","pqr"))
 }
 
